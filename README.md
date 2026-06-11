@@ -5,3 +5,5 @@ Esse jogo foi desenvolvido por alunos da Pós-Graduação em Robótica Educacion
 Qualquer publicação acadêmica,  ou modificação a partir dele, favor citar os autores.
 
 Os modelos 3D dos personagens estão no https://drive.google.com/drive/folders/14KfxoF0Vxe1eBHPK91q2p1hAbaAt1dCJ?usp=sharing
+
+Teaser do jogo: https://www.youtube.com/watch?v=M0gxPz-QSbs
